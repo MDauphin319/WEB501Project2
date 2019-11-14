@@ -1,0 +1,32 @@
+{
+  "name": "web501project2",
+  "version": "1.0.0",
+  "description": "Website project using gulp, nunjucks, and markdown.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MDauphin319/WEB501Project2.git"
+  },
+  "author": "Matt Dauphin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MDauphin319/WEB501Project2/issues"
+  },
+  "homepage": "https://github.com/MDauphin319/WEB501Project2#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "delete": "^1.1.0",
+    "fs": "0.0.1-security",
+    "gulp-front-matter": "^1.3.0",
+    "gulp-markdown": "^5.0.1",
+    "gulp-terser": "^1.2.0",
+    "gulp-wrap": "^0.15.0"
+  }
+}
