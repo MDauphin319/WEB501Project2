@@ -18,7 +18,8 @@
   "homepage": "https://github.com/MDauphin319/WEB501Project2#readme",
   "dependencies": {
     "gulp": "^4.0.2",
-    "gulp-sass": "^4.0.2"
+    "gulp-sass": "^4.0.2",
+    "nunjucks": "^3.2.0"
   },
   "devDependencies": {
     "browser-sync": "^2.26.7",

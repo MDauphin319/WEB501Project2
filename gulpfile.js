@@ -18,7 +18,18 @@ function markdown() {
   return src('source/pages/**/*.md')
     .pipe(frontMatter())
     .pipe(md())
-    .pipe(wrap({ src: 'source/templates/layout.html' }))
+    .pipe(
+      wrap(
+        data =>
+          fs
+            .readFileSync(
+              'source/templates/' + data.file.frontMatter.template + '.html'
+            )
+            .toString(),
+        null,
+        { engine: 'nunjucks' }
+      )
+    )
     .pipe(dest('prod'));
 }
 
