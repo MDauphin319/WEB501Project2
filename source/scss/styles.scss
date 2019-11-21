@@ -1,0 +1,169 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+	background-image: url("../images/ice.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+/* Header Styles */
+header{
+	background-color: #001B5B;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 80px;
+    display: flex;
+    align-items: center;
+}
+
+header * {
+    display: inline;
+}
+
+header li {
+    margin: 20px;
+}
+
+header li a {
+    color: white;
+    text-decoration: none;
+}
+
+.header {
+	padding: 20px;
+	color: white;
+}
+
+
+/* Nav Bar Styles */
+nav a.active {
+    color: white;
+    background-color: black;
+	padding: 31px;
+}
+
+
+/* General Styles */
+body {
+    height: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 100px;
+}
+
+p{
+	font-size: 18px;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+article img {
+    width: 300px;
+    float: right;
+	padding: 20px;
+}
+
+article {
+	padding: 20px;
+	width: auto;
+	height: auto;
+	border-style: solid;
+	border-width: 1px;
+	border-color: black;
+	margin-top: 30px;
+	margin-bottom: 50px;
+	margin-left: 30px;
+	margin-right: 30px;
+	background-color: white;
+	box-shadow: 0 0 25px 0 black;
+}
+
+/* Table Styles */
+table {
+	width: 100%;
+	border: 1px solid black;
+} 
+
+th, td {
+  border: 1px solid black;
+  padding: 10px;
+}
+
+
+/* Home Page Styles */
+.flex-parent {
+	display: flex;
+	justify-content: space-around;
+}
+
+.flex-child {
+	padding: 5px;
+	width: auto;
+	height: auto;
+	border-style: solid;
+	border-width: 1px;
+	border-color: black;
+	margin-top: 30px;
+	margin-bottom: 50px;
+	margin-left: 30px;
+	margin-right: 30px;
+	background-color: white;
+	box-shadow: 0 0 25px 0 black;
+}
+
+.homeContent {
+	padding: 20px;
+	width: 78em;
+	height: auto;
+	text-align: center;
+	border-style: solid;
+	border-width: 1px;
+	border-color: black;
+	margin-top: 30px;
+	margin-bottom: 50px;
+	margin-left: 30px;
+	margin-right: 30px;
+	background-color: white;
+	box-shadow: 0 0 25px 0 black;	
+}
+
+.outline {
+	text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
+	color: white;
+}
+
+
+/* Footer Styles */
+footer{
+	position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #001B5B;
+    text-align: center;
+	color: white;
+}
+
+address{
+	font-size: 18px;
+	text-align: center;
+	padding: 30px;
+}
