@@ -9,18 +9,37 @@
   <script src="ui/js/script.js" type="text/javascript" defer></script>
 </head>
 
-<body>
+<body class="home">
+
   {% include "source/templates/header.html" %}
 
+	<div class="flex-parent">
+		<div class="flex-child">
+			<img src="../images/stranding.jpg" alt="Death Stranding" height="300" width="300">
+		</div>
+				
+		<div class="flex-child">
+			<img src="../images/last.jpg" alt="The Last of Us: Part 2" height="300" width="300">
+		</div>
+				
+		<div class="flex-child">
+			<img src="../images/cyber.jpg" alt="Cyberpunk 2077" height="300" width="300">
+		</div>
+				
+		<div class="flex-child">
+			<img src="../images/jedi.jpg" alt="Star Wars Jedi: Fallen Order" height="300" width="300">
+		</div>
+	</div>
+
   {% block main %}Default content{% endblock %}
-  
+
   <footer>
     <address>
-		Matt Dauphin, Founder &bull;
-		Proffesional Gamer &bull;
+		Matt Dauphin &bull;
+		Ice Hockey &bull;
 		St.Clair College &bull;
 		WEB501 JavaScript 4 &bull;
-		Project 1
+		Project 2
 	</address>
   </footer>
 </body>
