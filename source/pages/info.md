@@ -7,6 +7,8 @@ template: page
 
 Ice hockey is a contact team sport played on ice, usually in a rink, in which two teams of skaters use their sticks to shoot a vulcanized rubber puck into their opponent's net to score points. The sport is known to be fast-paced and physical, with teams usually consisting of six players each: one goaltender, and five players who skate up and down the ice trying to take the puck and score a goal against the opposing team.
 
+![The Game of Hockey](images/game.jpg)
+
 # Game Rules
 
 While the general characteristics of the game stay the same wherever it is played, the exact rules depend on the particular code of play being used. The two most important codes are those of the IIHF and the NHL. Both of the codes, and others, originated from Canadian rules of ice hockey of the early 20th Century.
@@ -25,6 +27,7 @@ The three major rules of play in ice hockey that limit the movement of the puck:
 
 Under IIHF rules, each team may carry a maximum of 20 players and two goaltenders on their roster. NHL rules restrict the total number of players per game to 18, plus two goaltenders. In the NHL, the players are usually divided into four lines of three forwards, and into three pairs of defencemen. On occasion, teams may elect to substitute an extra defenceman for a forward. The seventh defenceman may play as a substitute defenceman, spend the game on the bench, or if a team chooses to play four lines then this seventh defenceman may see ice-time on the fourth line as a forward.
 
+
 ## Periods and Overtime
 
 A professional game consists of three periods of twenty minutes, the clock running only when the puck is in play. The teams change ends after each period of play, including overtime. Recreational leagues and children's leagues often play shorter games, generally with three shorter periods of play.
@@ -36,6 +39,8 @@ From the 1999–2000 until the 2003–04 seasons, the National Hockey League dec
 International play and several North American professional leagues, including the NHL (in the regular season), now use an overtime period identical to that from 99–00 – 03–04 followed by a penalty shootout. If the score remains tied after an extra overtime period, the subsequent shootout consists of three players from each team taking penalty shots. After these six total shots, the team with the most goals is awarded the victory. If the score is still tied, the shootout then proceeds to a sudden death format. Regardless of the number of goals scored during the shootout by either team, the final score recorded will award the winning team one more goal than the score at the end of regulation time. In the NHL if a game is decided in overtime or by a shootout the winning team is awarded two points in the standings and the losing team is awarded one point. Ties no longer occur in the NHL.
 
 The overtime mode for the NHL playoffs differ from the regular season. In the playoffs there are no shootouts nor ties. If a game is tied after regulation an additional 20 minutes of 5 on 5 sudden death overtime will be added. In case of a tied game after the overtime, multiple 20-minute overtimes will be played until a team scores, which wins the match. Since 2019, the IIHF World Championships and the medal games in the Olympics use the same format, but in a 3-on-3 format.
+
+![Penalty Box](images/penalty.jpg)
 
 ## Penalties
 
@@ -59,6 +64,8 @@ In men's hockey, but not in women's, a player may use his hip or shoulder to hit
 
 A delayed penalty call occurs when a penalty offence is committed by the team that does not have possession of the puck. In this circumstance the team with possession of the puck is allowed to complete the play; that is, play continues until a goal is scored, a player on the opposing team gains control of the puck, or the team in possession commits an infraction or penalty of their own. Because the team on which the penalty was called cannot control the puck without stopping play, it is impossible for them to score a goal. In these cases, the team in possession of the puck can pull the goalie for an extra attacker without fear of being scored on. However, it is possible for the controlling team to mishandle the puck into their own net. If a delayed penalty is signalled and the team in possession scores, the penalty is still assessed to the offending player, but not served. In 2012, this rule was changed by the United States' National Collegiate Athletic Association (NCAA) for college level hockey. In college games, the penalty is still enforced even if the team in possession scores.
 
+![Referee Officials](images/ref.jpg)
+
 ## Officials
 
 A typical game of hockey is governed by two to four officials on the ice, charged with enforcing the rules of the game. There are typically two linesmen who are mainly responsible for calling "offside" and "icing" violations, breaking up fights, and conducting faceoffs, and one or two referees, who call goals and all other penalties. Linesmen can, however, report to the referees that a penalty should be assessed against an offending player in some situations. The restrictions on this practice vary depending on the governing rules. On-ice officials are assisted by off-ice officials who act as goal judges, time keepers, and official scorers.
@@ -66,6 +73,7 @@ A typical game of hockey is governed by two to four officials on the ice, charge
 The most widespread system in use today is the "three-man system", that uses one referee and two linesmen. Another less commonly used system is the two referee and one linesman system. This system is very close to the regular three-man system except for a few procedure changes. With the first being the National Hockey League, a number of leagues have started to implement the "four-official system", where an additional referee is added to aid in the calling of penalties normally difficult to assess by one single referee. The system is now used in every NHL game, at IIHF World Championships, the Olympics and in many professional and high-level amateur leagues in North America and Europe.
 
 Officials are selected by the league they work for. Amateur hockey leagues use guidelines established by national organizing bodies as a basis for choosing their officiating staffs. In North America, the national organizing bodies Hockey Canada and USA Hockey approve officials according to their experience level as well as their ability to pass rules knowledge and skating ability tests. Hockey Canada has officiating levels I through VI. USA Hockey has officiating levels 1 through 4.
+
 
 ## Equipment
 
@@ -76,6 +84,8 @@ Goaltenders use different equipment. With hockey pucks approaching them at speed
 Hockey skates are optimized for physical acceleration, speed and manoeuvrability. This includes rapid starts, stops, turns, and changes in skating direction. In addition, they must be rigid and tough to protect the skater's feet from contact with other skaters, sticks, pucks, the boards, and the ice itself. Rigidity also improves the overall manoeuvrability of the skate. Blade length, thickness (width), and curvature (rocker/radius (front to back) and radius of hollow (across the blade width) are quite different from speed or figure skates. Hockey players usually adjust these parameters based on their skill level, position, and body type. The blade width of most skates are about 1⁄8 inch (3.2 mm) thick.
 
 The hockey stick consists of a long, relatively wide, and slightly curved flat blade, attached to a shaft. The curve itself has a big impact on its performance. A deep curve allows for lifting the puck easier while a shallow curve allows for easier backhand shots. The flex of the stick also impacts the performance. Typically, a less flexible stick is meant for a stronger player since the player is looking for the right balanced flex that allows the stick to flex easily while still having a strong "whip-back" which sends the puck flying at high speeds. It is quite distinct from sticks in other sports games and most suited to hitting and controlling the flat puck. Its unique shape contributed to the early development of the game.
+
+![Helmet Rack](images/helmet.jpg)
 
 ## Fights
 

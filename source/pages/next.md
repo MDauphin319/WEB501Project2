@@ -11,6 +11,8 @@ The other three games on the first night of the 2019-20 season include the Ottaw
 
 The Buffalo Sabres and Vancouver Canucks are both celebrating their 50th anniversary in 2019-20. The Sabres open their season in Buffalo at KeyBank Center on Oct. 5 versus the New Jersey Devils. The Canucks will play their home opener at Rogers Arena against the Los Angeles Kings on Oct. 9, exactly 49 years after the franchise's first NHL regular-season game, also against the Kings (Los Angeles 3, Vancouver 1 on Oct. 9, 1970).
 
+![NHL Face Off](images/faceoff.jpg)
+
 &nbsp;
 
 ## Scheduling Matrix
@@ -60,6 +62,8 @@ Each Division has 8 teams
 
 16 teams x 1 home / 1 away (Subtotal 16 home / 16 away) Grand Total 41 home / 41 away
 
+![NHL Player Speed Skating](images/fast.jpg)
+
 &nbsp;
 
 ### Western Conference (Pacific Division - 8 teams)
@@ -101,6 +105,8 @@ Each Division has 8 teams
 **Non-Conference**
 
 16 teams x 1 home / 1 away (Subtotal 16 home / 16 away) Grand Total 41 home / 41 away
+
+![NHL Goalie](images/goalie.jpg)
 
 &nbsp;
 
