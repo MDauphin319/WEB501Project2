@@ -7,6 +7,9 @@ const fs = require('fs');
 const md = require('gulp-markdown');
 const wrap = require('gulp-wrap');
 const frontMatter = require('gulp-front-matter');
+const imagemin = require('gulp-imagemin');
+const cache = require('gulp-cache');
+const minifyHtml = require('gulp-htmlmin');
 
 function css() {
   return src('source/scss/**/*.scss')
@@ -30,6 +33,7 @@ function markdown() {
         { engine: 'nunjucks' }
       )
     )
+	.pipe(minifyHtml())
     .pipe(dest('prod'));
 }
 
@@ -40,7 +44,9 @@ function js() {
 }
 
 function picture() {
-  return src('source/**/*.jpg').pipe(dest('prod/'));
+  return src('source/**/*.jpg')
+	.pipe(cache(imagemin()))
+	.pipe(dest('prod/'));
 }
 
 function watch_task() {
@@ -67,5 +73,6 @@ function clean(cb){
 }
 
 exports.clean = clean;
+exports.imagemin = imagemin;
 exports.build = series(clean, parallel(css, markdown, js, picture));
 exports.default = series(exports.build, sync, watch_task);
